@@ -1,2 +1,2 @@
 # kaggle
-Workspace for Kaggle machine learning projects
+Workspace for Kaggle machine learning projects in R
